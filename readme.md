@@ -91,7 +91,7 @@ JavaScript es conocido por su naturaleza basada en prototipos, permitiendo heren
 
 ### TIPO DE DATO
 
-- #### STRING (DECLARACIÓN, CONCATENACIÓN, TEMPLATE STRING )
+- #### STRING
 
   Representa una secuencia de caracteres, como letras, números y símbolos, encerrados entre comillas simples, dobles o invertidas.
 
